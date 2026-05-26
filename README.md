@@ -1,6 +1,7 @@
+
 # PT-BR
 # GameVault
-
+<img width="1852" height="718" alt="screenshot" src="https://github.com/user-attachments/assets/5a3ef8e4-e6c5-4bcd-bca6-b9d5201264e6" />
 Aplicação full stack para gerenciamento de biblioteca de jogos com operações CRUD completas.
 
 ## Tecnologias
